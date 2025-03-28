@@ -1,9 +1,4 @@
-Before starting this app, run
-
-### `npm install`
-
-Update the smart contract address and abi in Healthcare.js file.
-
-To run the project, go to terminal and type
-
-### `npm start`
+# Health Care Dapp
+This is the solution to GDSC hackathon 6th PS by DRK
+<br>
+This is a healthcare Dapp that integrates blockchain technology to manage health realted data of patients and has a website interface to interact.
